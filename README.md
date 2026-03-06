@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18894794.svg)](https://doi.org/10.5281/zenodo.18894794)
+
 # Boundary Handshake
 
 **A Manifesto for Declaration-First Agent Interoperability**
