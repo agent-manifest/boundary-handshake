@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: document
+title: "Boundary Handshake Agent: A Manifesto for Declaration-First Agent Interoperability"
+version: 0.1.0
+date-released: "2026-03-06"
+authors:
+  - family-names: Capucci
+    given-names: "Hernán Alfredo"
+abstract: >
+  Boundary Handshake Agent is a conceptual framework introducing a
+  declaration-first governance layer for agent interaction. It proposes
+  that before two agents coordinate, they should establish — through
+  structured declaration — the identity, limits, autonomy, and termination
+  conditions governing that interaction. The output of this process is an
+  Interaction Manifest: a structured declaration of the conditions under
+  which two agents agree to interact.
+keywords:
+  - agent governance
+  - declarative interoperability
+  - multi-agent systems
+  - interaction manifest
+  - AI governance
+  - agentic systems
+  - boundary handshake
+license: CC-BY-4.0
+url: "https://agent-manifest-spec.org"
+repository-code: "https://github.com/hernanCapucci/boundary-handshake-agent"
+references:
+  - type: document
+    title: "Agent Manifest Specification"
+    authors:
+      - family-names: Capucci
+        given-names: "Hernán Alfredo"
+    doi: "10.5281/zenodo.18833956"
+    url: "https://agent-manifest-spec.org"
