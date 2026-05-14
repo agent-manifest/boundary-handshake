@@ -25,7 +25,7 @@ keywords:
   - boundary handshake
 license: CC-BY-4.0
 url: "https://agent-manifest-spec.org"
-repository-code: "https://github.com/hernanCapucci/boundary-handshake"
+repository-code: "https://github.com/agent-manifest/boundary-handshake"
 references:
   - type: document
     title: "Agent Manifest Specification"
