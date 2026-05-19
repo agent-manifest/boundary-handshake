@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/status-draft-1a1917?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.1-1a1917?style=flat-square)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18894794.svg)](https://doi.org/10.5281/zenodo.18894794)
 
 # Boundary Handshake
@@ -5,6 +8,8 @@
 **A Manifesto for Declaration-First Agent Interoperability**
 
 *Agent Manifest Project — Draft v0.1 — 2026*
+
+> **Status:** Draft v0.1 — conceptual framework, not runtime infrastructure.
 
 -----
 
@@ -85,3 +90,17 @@ Future work: Interaction Manifest schema, compatibility validator, interoperabil
 ## Citation
 
 See [`CITATION.cff`](CITATION.cff) for academic citation format.
+
+---
+
+**Part of the [Agent Manifest](https://agent-manifest-spec.org) ecosystem**
+
+[Spec](https://github.com/agent-manifest/agent-manifest) ·
+[Registry](https://github.com/agent-manifest/agent-manifest-registry) ·
+[Dataset](https://github.com/agent-manifest/agent-manifest-dataset) ·
+[Ambassador](https://github.com/agent-manifest/agent-manifest-ambassador) ·
+[Diplomat](https://github.com/agent-manifest/agent-manifest-diplomat) ·
+[Boundary Handshake](https://github.com/agent-manifest/boundary-handshake) ·
+[∈ Principle](https://github.com/agent-manifest/e-principle)
+
+CC BY 4.0 · Hernán Alfredo Capucci · Agent Manifest Project
