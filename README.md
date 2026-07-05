@@ -55,17 +55,10 @@ Three layers form the framework:
 
 ## Documents
 
-- [`docs/boundary-handshake-manifesto.md`](docs/boundary-handshake-manifesto.md) — Full manifesto
+- [`docs/manifesto.md`](docs/manifesto.md) — Full manifesto
 - [`docs/conceptual-architecture.md`](docs/conceptual-architecture.md) — Framework architecture and layer definitions
 - [`docs/key-citations.md`](docs/key-citations.md) — Five quotable formulations from the manifesto
 - [`docs/positioning-agentic-web.md`](docs/positioning-agentic-web.md) — Relationship to MCP, A2A, AGNTCY, and the Agentic Web
-
-## Assets
-
-- [`assets/diagram-conceptual-architecture.html`](assets/diagram-conceptual-architecture.html) — Conceptual architecture diagram
-- [`assets/citation-cards.html`](assets/citation-cards.html) — Citation reference cards
-
------
 
 ## Relationship to Agent Manifest
 
