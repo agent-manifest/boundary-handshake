@@ -7,6 +7,7 @@ date-released: "2026-03-06"
 authors:
   - family-names: Capucci
     given-names: "Hernán Alfredo"
+    orcid: "https://orcid.org/0009-0008-7216-3032"
 abstract: >
   Boundary Handshake Agent is a conceptual framework introducing a
   declaration-first governance layer for agent interaction. It proposes
