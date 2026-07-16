@@ -43,11 +43,11 @@ Boundary Handshake addresses that gap.
 
 ## Core concept
 
-Three layers form the framework:
+The framework builds on Agent Manifest — an external, independent specification — and adds two layers of its own:
 
 |Layer|Name                    |Function                                                                             |
 |-----|------------------------|-------------------------------------------------------------------------------------|
-|1    |Agent Manifest          |Self-declaration — what an agent declares about itself                               |
+|Foundation (external)|Agent Manifest|Self-declaration — what an agent declares about itself                    |
 |2    |Interaction Manifest    |Relational declaration — what two agents accept about each other in order to interact|
 |3    |Boundary Handshake Agent|Interaction establishment — the mechanism that attempts to bridge the two            |
 
@@ -72,7 +72,9 @@ Boundary Handshake defines what two agents must declare to each other before int
 ## Status
 
 Draft v0.1 — conceptual framework and manifesto.  
-Future work: Interaction Manifest schema, compatibility validator, interoperability registry.
+Not under active development.
+
+Possible future work (none of these artifacts exists yet): Interaction Manifest schema, compatibility validator, interoperability registry.
 
 -----
 
