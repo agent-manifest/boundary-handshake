@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use or reference this work, please cite it as below."
-type: document
+message: "If you use or reference this work, please cite the published manifesto (see preferred-citation)."
 title: "Boundary Handshake Agent: A Manifesto for Declaration-First Agent Interoperability"
 version: 0.1.0
+doi: "10.5281/zenodo.18894794"
 date-released: "2026-03-06"
 authors:
   - family-names: Capucci
@@ -27,8 +27,18 @@ keywords:
 license: CC-BY-4.0
 url: "https://agent-manifest-spec.org"
 repository-code: "https://github.com/agent-manifest/boundary-handshake"
+preferred-citation:
+  type: report
+  title: "Boundary Handshake Agent: A Manifesto for Declaration-First Agent Interoperability"
+  authors:
+    - family-names: Capucci
+      given-names: "Hernán Alfredo"
+      orcid: "https://orcid.org/0009-0008-7216-3032"
+  doi: "10.5281/zenodo.18894794"
+  version: "0.1.0"
+  year: 2026
 references:
-  - type: document
+  - type: report
     title: "Agent Manifest Specification"
     authors:
       - family-names: Capucci
