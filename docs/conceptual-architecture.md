@@ -6,19 +6,19 @@
 
 ## Overview
 
-The Boundary Handshake framework introduces three interdependent layers forming a progression from individual agent declaration to relational governance.
+The Boundary Handshake framework builds on Agent Manifest — an independent, external specification — and introduces two layers of its own, forming a progression from individual agent declaration to relational governance.
 
 ---
 
-## Layer 1 — Agent Manifest
+## Foundation — Agent Manifest (external)
 
-**Self-Declaration Layer**
+**Self-Declaration**
 
 A structured declaration of an agent's identity, operator, purpose, capabilities, constraints, and operational boundaries.
 
 Describes an agent in isolation.
 
-**Defined by:** [Agent Manifest Specification](https://agent-manifest-spec.org) — DOI: 10.5281/zenodo.18833956
+**Defined externally by:** [Agent Manifest Specification](https://agent-manifest-spec.org) — DOI: 10.5281/zenodo.18833956. Agent Manifest is an independent specification, not a component of this framework.
 
 ---
 

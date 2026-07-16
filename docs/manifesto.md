@@ -44,7 +44,7 @@ But the Agent Manifest solves only half of the problem. It describes an agent in
 
 ---
 
-## The Missing Layer
+## The Relational Layer
 
 Agent ecosystems are becoming increasingly relational. Agents discover, evaluate, and interact with other agents across systems.
 
